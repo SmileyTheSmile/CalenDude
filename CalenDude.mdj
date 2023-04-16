@@ -4368,6 +4368,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": 320,
 													"height": 13
 												},
 												{
@@ -4377,7 +4378,7 @@
 														"$ref": "AAAAAAGHi2lCMPJ33r8="
 													},
 													"font": "Arial;13;1",
-													"left": 181,
+													"left": 341,
 													"top": 215,
 													"width": 102,
 													"height": 13,
@@ -4391,6 +4392,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": 320,
 													"width": 100.42626953125,
 													"height": 13,
 													"text": "(from LocalLogic)"
@@ -4403,12 +4405,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
+													"left": 320,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 176,
+											"left": 336,
 											"top": 208,
 											"width": 112,
 											"height": 25,
@@ -4435,7 +4438,7 @@
 												"$ref": "AAAAAAGHi2lCL/J0SfM="
 											},
 											"font": "Arial;13;0",
-											"left": 176,
+											"left": 336,
 											"top": 233,
 											"width": 112,
 											"height": 10
@@ -4450,7 +4453,7 @@
 												"$ref": "AAAAAAGHi2lCL/J0SfM="
 											},
 											"font": "Arial;13;0",
-											"left": 176,
+											"left": 336,
 											"top": 243,
 											"width": 112,
 											"height": 10
@@ -4466,6 +4469,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"left": 160,
 											"width": 10,
 											"height": 10
 										},
@@ -4480,13 +4484,14 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
+											"left": 160,
 											"width": 10,
 											"height": 10
 										}
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 176,
+									"left": 336,
 									"top": 208,
 									"width": 112,
 									"height": 121,
