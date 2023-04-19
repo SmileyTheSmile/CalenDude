@@ -19541,13 +19541,30 @@
 											"height": 13,
 											"text": "+ListScheduledEvents()",
 											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAGHmrtkBEh81OQ=",
+											"_parent": {
+												"$ref": "AAAAAAGHmail3RUC0A8="
+											},
+											"model": {
+												"$ref": "AAAAAAGHmrtj3khwj90="
+											},
+											"font": "Arial;13;0",
+											"left": 1445,
+											"top": 1285,
+											"width": 137.66162109375,
+											"height": 13,
+											"text": "+MatchKey()",
+											"horizontalAlignment": 0
 										}
 									],
 									"font": "Arial;13;0",
 									"left": 1440,
 									"top": 1250,
 									"width": 147.66162109375,
-									"height": 38
+									"height": 53
 								},
 								{
 									"_type": "UMLReceptionCompartmentView",
@@ -23951,6 +23968,14 @@
 										"$ref": "AAAAAAGHmaialhTcaHg="
 									},
 									"name": "ListScheduledEvents"
+								},
+								{
+									"_type": "UMLOperation",
+									"_id": "AAAAAAGHmrtj3khwj90=",
+									"_parent": {
+										"$ref": "AAAAAAGHmaialhTcaHg="
+									},
+									"name": "MatchKey"
 								}
 							]
 						},
